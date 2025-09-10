@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers>=4.30.0
+sentencepiece
+torch  # or appropriate runtime (cpu, or accelerate)
+python-multipart
+pillow
